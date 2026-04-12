@@ -1,0 +1,126 @@
+id_paciente,nombre,edad,correo,fecha_registro
+1001,Luis García ,33 años,user1001mail.com,2025-01-24
+1002, Juan Pérez ,20,user1002@mail.com,12/08/2023
+1003, Juan García,, ,2024-13-01
+1004,Lucía Martínez,66 años, ,2023/12/15
+1005,Carlos Hernández ,24, ,2023/04/10
+1006,Sofía Martínez,N/A,,2024-13-01
+1007,Luis Martínez ,54 años,user1007@mail.com, 
+1008,María Martínez,72 años,user1008@mail.com,2024/01/25
+1009, Pedro Rodríguez, 41 ,user1009mail.com,2024/11/17
+1010, Luis López,N/A, , 
+1011,Juan Hernández ,71,user1011mail.com,2023/02/02
+1012,Elena Martínez,,user1012@mail, 
+1013, Pedro Gómez , 27 ,user1013mail.com, 
+1014, Juan Martínez ,, ,06/01/2024
+1015,Carlos Díaz,66,user1015@mail.com, 
+1016,Carlos Gómez,N/A,,2024-02-30
+1017,José García,,user1017@mail, 
+1018,Sofía Pérez ,45 años, , 
+1019,José López, 73 ,,15/09/2024
+1020, Carlos Rodríguez,,user1020@mail.com,2024/09/05
+1021,Pedro García, 77 ,user1021@mail,2023-09-03
+1022,María Pérez,N/A,user1022@mail.com,2024-02-30
+1023, Carlos López ,,user1023mail.com,2024-02-30
+1024, Lucía Gómez,,user1024mail.com,2024/12/31
+1025, Elena Rodríguez ,, ,04/05/2023
+1026,María Pérez ,,,2024-02-30
+1027,María García,63,user1027mail.com,2023-03-11
+1028, Sofía Pérez,N/A,user1028mail.com,06/07/2024
+1029, Lucía Díaz,N/A, ,2023-07-14
+1030,Luis Gómez ,N/A, ,2025-01-16
+1031, Luis García , 64 ,user1031@mail.com,12/09/2023
+1032, María Díaz,45 años,user1032@mail,18/04/2024
+1033,Luis Díaz,,user1033@mail.com,06/04/2023
+1034, Carlos Gómez ,48 años, ,02/03/2023
+1035, Elena García ,N/A,user1035@mail, 
+1036, Juan Díaz, 30 ,user1036mail.com,2024-02-30
+1037,Juan García ,21,,2024-02-30
+1038,Juan López,,user1038@mail.com,2023-07-10
+1039, Lucía Pérez,43,,2024-02-30
+1040,Lucía García,,,2024/06/19
+1041,José Hernández , 33 , , 
+1042,José Díaz ,77,user1042@mail.com,2024-02-30
+1043,Lucía Pérez,52 años,,29/09/2023
+1044, Sofía Pérez, 41 ,user1044mail.com,2024-02-30
+1045,José García ,77,user1045mail.com,2023-09-28
+1046,Luis López ,,user1046mail.com,2025/01/04
+1047, María Martínez ,34,user1047@mail.com,2024-13-01
+1048,José García,39 años,user1048@mail, 
+1049,Pedro Gómez,25,user1049mail.com,2024-07-12
+1050, Sofía López ,26,user1050@mail,2024-01-09
+1051, Sofía Hernández,60,user1051@mail,2024-13-01
+1052, Lucía López,73 años,user1052mail.com,2024-02-27
+1053, Carlos Rodríguez ,69 años,user1053@mail, 
+1054,Luis Gómez,N/A,user1054mail.com,2024-13-01
+1055, Sofía Martínez,32,user1055mail.com,2024/02/13
+1056,José Pérez ,, ,2024-02-30
+1057,Sofía García, 74 ,user1057mail.com,2024/08/17
+1058, Ana Pérez , 40 , ,2024-02-30
+1059, Luis Gómez,34, ,2024-02-30
+1060,Juan Hernández ,45,user1060@mail,2024/09/30
+1061,Luis Martínez ,N/A,user1061@mail, 
+1062, José López,N/A,user1062mail.com,2024-02-30
+1063,José Gómez, 37 ,user1063mail.com,2024-02-30
+1064, Lucía Rodríguez ,N/A,user1064mail.com,2024-13-01
+1065,Carlos Pérez ,,user1065@mail,06/04/2023
+1066, José Hernández,27,user1066@mail.com,2024-13-01
+1067, Lucía Pérez ,,user1067mail.com, 
+1068, Elena Díaz ,33 años,user1068@mail.com,2025-02-07
+1069, Elena Hernández,, ,2024-02-30
+1070, María Pérez ,N/A,,2024-02-30
+1071, Sofía Díaz ,, , 
+1072,Pedro Díaz ,66 años,user1072@mail,2024-02-30
+1073,Pedro Hernández ,46,user1073@mail,2023/08/29
+1074,Sofía Rodríguez,26 años,user1074mail.com, 
+1075,Carlos Hernández,N/A,user1075@mail,2024-13-01
+1076, Elena García,N/A, ,2024-02-30
+1077, Ana Gómez , 18 ,user1077@mail,2024-13-01
+1078, Elena Hernández , 32 , ,2024-05-12
+1079, Elena Rodríguez ,64 años, ,2024-02-30
+1080, Juan García ,,user1080@mail.com, 
+1081, Elena López ,29,user1081@mail,2024/01/24
+1082,María Díaz ,N/A,user1082@mail,2024-13-01
+1083, José Pérez ,,user1083@mail.com,25/12/2023
+1084,Luis García,78 años,user1084mail.com,2024-02-30
+1085, Carlos Hernández,48,,2024-13-01
+1086, José Rodríguez,,user1086@mail.com,2023/06/17
+1087,Luis García ,N/A, ,02/01/2025
+1088,Luis Hernández, 62 ,,2024-02-30
+1089, Ana Rodríguez , 60 ,user1089@mail.com, 
+1090, Sofía García ,N/A,user1090@mail.com,2024/03/19
+1091, Pedro López ,,user1091@mail,2024-02-30
+1092, Pedro Díaz ,,user1092@mail,27/11/2023
+1093, Luis Martínez ,N/A,, 
+1094,Elena Rodríguez, 49 ,user1094mail.com,14/05/2024
+1095,Sofía Martínez ,,user1095@mail,2024-07-23
+1096,Juan Hernández,N/A, ,22/07/2024
+1097, Pedro Díaz ,68,user1097@mail.com,29/10/2023
+1098,Elena Hernández ,,user1098@mail,2024-02-30
+1099, Juan Rodríguez ,,user1099@mail, 
+1100,Pedro Martínez ,34 años,user1100@mail.com,08/01/2025
+1101, Sofía Pérez,30 años, , 
+1102,Lucía Martínez,71 años,user1102@mail,2023/08/21
+1103,Carlos Martínez,,user1103mail.com,2023-10-08
+1104, Ana Martínez,N/A,user1104@mail.com,2024-02-30
+1105, José Díaz , 46 ,user1105mail.com,2023/02/22
+1106,Pedro Pérez,N/A,user1106@mail.com, 
+1107, Ana López,,user1107@mail,29/03/2023
+1108, Luis Gómez,, ,2024-13-01
+1109,José Gómez ,,user1109@mail.com, 
+1110, Luis Hernández,34,user1110mail.com,03/09/2023
+1111, Juan Pérez,N/A, ,2024-02-30
+1112,Pedro Martínez, 32 ,user1112@mail,2024-13-01
+1113,Luis Hernández ,,user1113mail.com,2024-03-11
+1114, Juan Hernández, 76 ,user1114mail.com,2023-03-15
+1115,Carlos Martínez ,46, ,2024/12/06
+1116, Elena Martínez ,46,,2024-13-01
+1117,Sofía Martínez,23 años,,2024-08-24
+1118, José García,, ,12/10/2023
+1119, Lucía Gómez ,80, ,2024-13-01
+1120,Sofía Rodríguez,72 años,user1120@mail, 
+1064, Lucía Rodríguez ,N/A,user1064mail.com,2024-13-01
+1037,Juan García ,21,,2024-02-30
+1085, Carlos Hernández,48,,2024-13-01
+1052, Lucía López,73 años,user1052mail.com,2024-02-27
+1105, José Díaz , 46 ,user1105mail.com,2023/02/22
