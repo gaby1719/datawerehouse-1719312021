@@ -1,0 +1,198 @@
+id_tratamiento,id_consulta,descripcion,costo_tratamiento,estado
+3001,2175.0,Cirugía menor,USD 59,Pendiente
+3002,2058.0,Cirugía menor,USD 190,cancelado
+3003,2123.0,Cirugía menor,83,cancelado
+3004,2089.0,Terapia,20 USD,Activo
+3005,2114.0,Cirugía menor,USD 64,Pendiente
+3006,2036.0,Medicamento,72,Finalizado
+3007,2014.0,Medicamento,,Activo
+3008,2002.0,Reposo,,cancelado
+3009,2074.0,Cirugía menor,175,Activo
+3010,2137.0,Medicamento,$116,Activo
+3011,2127.0,Terapia,19,Pendiente
+3012,2086.0,Cirugía menor,,Finalizado
+3013,2070.0,Terapia,$94,cancelado
+3014,2048.0,Medicamento,USD 85,Finalizado
+3015,2110.0,Reposo,,Activo
+3016,2036.0,Examen,73,Pendiente
+3017,2061.0,Examen,94 USD,Activo
+3018,2168.0,Cirugía menor,25,cancelado
+3019,2041.0,Examen,186,Pendiente
+3020,2158.0,Terapia,,Finalizado
+3021,2156.0,Cirugía menor,,Finalizado
+3022,2175.0,Reposo,,Pendiente
+3023,2145.0,Medicamento,USD 150,Finalizado
+3024,2084.0,Reposo,USD 39,cancelado
+3025,2131.0,Examen,$126,cancelado
+3026,2145.0,Medicamento,182 USD,Activo
+3027,2066.0,Medicamento,158,Activo
+3028,2089.0,Medicamento,,Activo
+3029,2105.0,Terapia,,Pendiente
+3030,2115.0,Examen,$30,Pendiente
+3031,2046.0,Reposo,$145,Finalizado
+3032,2006.0,Cirugía menor,,cancelado
+3033,2064.0,Examen,49 USD,Finalizado
+3034,2009.0,Examen,USD 71,Activo
+3035,2153.0,Medicamento,163,Finalizado
+3036,2103.0,Examen,USD 148,Activo
+3037,2129.0,Cirugía menor,197,Pendiente
+3038,2078.0,Terapia,115 USD,Pendiente
+3039,2143.0,Reposo,,cancelado
+3040,2089.0,Examen,,cancelado
+3041,2077.0,Examen,,Finalizado
+3042,2077.0,Terapia,,cancelado
+3043,2100.0,Terapia,62,Activo
+3044,2095.0,Medicamento,23 USD,cancelado
+3045,2019.0,Terapia,USD 132,Pendiente
+3046,2004.0,Terapia,199,cancelado
+3047,2179.0,Reposo,USD 111,Pendiente
+3048,2098.0,Examen,88 USD,Pendiente
+3049,2120.0,Medicamento,USD 91,Pendiente
+3050,2106.0,Medicamento,$199,Activo
+3051,2142.0,Reposo,$85,Finalizado
+3052,2059.0,Examen,137,Pendiente
+3053,2165.0,Examen,53,Finalizado
+3054,2140.0,Examen,148,Activo
+3055,2172.0,Medicamento,$115,Finalizado
+3057,2159.0,Reposo,,Activo
+3058,2137.0,Reposo,13,Pendiente
+3059,2005.0,Reposo,55,Activo
+3060,2062.0,Terapia,100 USD,cancelado
+3061,2096.0,Examen,USD 154,Finalizado
+3062,2176.0,Medicamento,,cancelado
+3063,2142.0,Examen,173,Finalizado
+3064,2128.0,Examen,154,Activo
+3065,2055.0,Reposo,79,Activo
+3066,2140.0,Reposo,55,Activo
+3067,2151.0,Terapia,29 USD,Finalizado
+3068,2146.0,Examen,$108,Activo
+3069,2014.0,Medicamento,69,Pendiente
+3070,2084.0,Medicamento,,Finalizado
+3071,2142.0,Examen,,Activo
+3072,2064.0,Medicamento,$78,cancelado
+3073,2100.0,Cirugía menor,37,Activo
+3074,2114.0,Cirugía menor,$36,Activo
+3075,2111.0,Examen,36,Activo
+3076,2142.0,Medicamento,108,Pendiente
+3077,2100.0,Medicamento,$156,cancelado
+3078,2036.0,Cirugía menor,,Finalizado
+3079,2043.0,Examen,117 USD,cancelado
+3080,2093.0,Cirugía menor,,Finalizado
+3081,2028.0,Terapia,,Pendiente
+3082,2085.0,Examen,$120,Pendiente
+3083,2155.0,Terapia,$90,cancelado
+3084,2075.0,Examen,,Pendiente
+3085,2094.0,Medicamento,$161,Activo
+3087,2036.0,Cirugía menor,$74,cancelado
+3088,2019.0,Examen,,cancelado
+3089,2093.0,Reposo,USD 37,Pendiente
+3090,2166.0,Reposo,,Pendiente
+3091,2028.0,Medicamento,USD 76,Finalizado
+3092,2096.0,Examen,$183,Pendiente
+3093,2124.0,Medicamento,116,Activo
+3094,2090.0,Cirugía menor,USD 126,cancelado
+3095,2122.0,Medicamento,,Pendiente
+3096,2077.0,Medicamento,15,Activo
+3097,2063.0,Reposo,$151,Pendiente
+3098,2119.0,Terapia,$171,Finalizado
+3099,2102.0,Medicamento,,cancelado
+3100,8888.0,Terapia,81,Activo
+3101,2094.0,Cirugía menor,127,Pendiente
+3102,2136.0,Cirugía menor,,Activo
+3103,2091.0,Examen,182 USD,Activo
+3104,2081.0,Medicamento,88,Finalizado
+3105,2178.0,Terapia,$117,cancelado
+3106,2048.0,Examen,$152,cancelado
+3107,2036.0,Terapia,125,Pendiente
+3108,2125.0,Terapia,,cancelado
+3109,2107.0,Examen,52,Activo
+3110,2075.0,Medicamento,67 USD,Finalizado
+3111,2145.0,Examen,156,Pendiente
+3112,2139.0,Medicamento,USD 149,cancelado
+3113,2168.0,Terapia,,Pendiente
+3114,2023.0,Examen,USD 70,Pendiente
+3115,2043.0,Reposo,USD 62,Activo
+3116,2137.0,Cirugía menor,92 USD,Pendiente
+3117,2132.0,Medicamento,115,Pendiente
+3118,2180.0,Terapia,47,Finalizado
+3119,2126.0,Terapia,,cancelado
+3120,2020.0,Medicamento,141 USD,Pendiente
+3121,2125.0,Cirugía menor,197,cancelado
+3122,2017.0,Reposo,,Finalizado
+3123,2069.0,Cirugía menor,$96,cancelado
+3124,2175.0,Medicamento,,Activo
+3125,2041.0,Examen,,Finalizado
+3126,2167.0,Cirugía menor,80,Pendiente
+3127,2022.0,Cirugía menor,,Pendiente
+3128,2110.0,Medicamento,USD 10,cancelado
+3129,2034.0,Reposo,,Activo
+3130,2179.0,Cirugía menor,$118,cancelado
+3131,2059.0,Examen,197,Activo
+3132,2095.0,Cirugía menor,$107,Finalizado
+3133,2136.0,Reposo,$166,cancelado
+3134,2055.0,Terapia,,Finalizado
+3135,2026.0,Terapia,,Pendiente
+3136,2081.0,Terapia,80,Finalizado
+3137,2177.0,Medicamento,USD 62,cancelado
+3138,2166.0,Medicamento,,Activo
+3139,2128.0,Reposo,145,Pendiente
+3140,2034.0,Examen,$103,cancelado
+3141,2005.0,Reposo,13 USD,Finalizado
+3142,2016.0,Examen,,cancelado
+3143,2022.0,Reposo,81,Pendiente
+3144,2131.0,Terapia,147,cancelado
+3145,2080.0,Examen,USD 24,Activo
+3146,2030.0,Examen,$89,Activo
+3148,2043.0,Cirugía menor,78,Activo
+3149,2110.0,Cirugía menor,77,cancelado
+3150,2131.0,Cirugía menor,$137,Pendiente
+3151,2066.0,Medicamento,68,Activo
+3152,2063.0,Medicamento,,Finalizado
+3153,2010.0,Reposo,67,Finalizado
+3154,2082.0,Cirugía menor,156,Activo
+3155,2046.0,Terapia,112,cancelado
+3156,2080.0,Cirugía menor,,Activo
+3157,2052.0,Cirugía menor,USD 199,cancelado
+3158,2152.0,Examen,USD 197,Finalizado
+3159,2105.0,Medicamento,148,Activo
+3160,2001.0,Examen,USD 36,Finalizado
+3161,2126.0,Medicamento,192 USD,Activo
+3162,2060.0,Reposo,189,cancelado
+3163,2149.0,Medicamento,,Activo
+3164,2112.0,Terapia,84 USD,Pendiente
+3165,2180.0,Cirugía menor,125 USD,Finalizado
+3166,2052.0,Terapia,49,Finalizado
+3167,2120.0,Cirugía menor,40,Finalizado
+3168,2079.0,Examen,40,Finalizado
+3169,8888.0,Reposo,65,Finalizado
+3170,2064.0,Cirugía menor,141,Pendiente
+3171,2045.0,Medicamento,USD 125,Activo
+3172,2027.0,Terapia,13,Finalizado
+3173,2051.0,Examen,185,Pendiente
+3174,2006.0,Medicamento,,Finalizado
+3175,2085.0,Medicamento,128,Finalizado
+3176,2102.0,Examen,,Finalizado
+3177,2055.0,Terapia,,Finalizado
+3178,2158.0,Reposo,175 USD,cancelado
+3179,2141.0,Examen,32 USD,cancelado
+3180,2108.0,Terapia,171,cancelado
+3181,2123.0,Reposo,98,cancelado
+3182,2047.0,Medicamento,USD 162,Activo
+3183,2015.0,Examen,USD 159,Finalizado
+3184,2064.0,Terapia,146,Finalizado
+3185,2091.0,Terapia,70,Pendiente
+3186,8888.0,Cirugía menor,USD 154,cancelado
+3187,2045.0,Examen,33,Finalizado
+3188,2006.0,Reposo,10,Finalizado
+3189,2088.0,Terapia,25,Finalizado
+3190,2029.0,Reposo,28,cancelado
+3191,2087.0,Cirugía menor,$44,cancelado
+3192,2167.0,Cirugía menor,191,Finalizado
+3193,2097.0,Cirugía menor,$42,Activo
+3194,2146.0,Medicamento,164,Finalizado
+3195,2128.0,Terapia,200,Finalizado
+3196,2082.0,Terapia,191,cancelado
+3197,2068.0,Terapia,187,Pendiente
+3198,2028.0,Medicamento,,cancelado
+3199,2106.0,Examen,,Activo
+3200,2148.0,Terapia,125,Activo
